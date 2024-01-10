@@ -4,7 +4,7 @@ A simple Rails application for sharing your mood via email.
 
 ## Setup
 
-This repo configured with Ruby 3.2.2 and Rails 7.1.2. 
+This repo configured with Ruby 3.2.2 and Rails 7.1.2.
 
 After cloning, follow these steps to run locally:
 
@@ -19,6 +19,7 @@ Please note: this app is configured to _not_ send emails in development.
 ### Branches
 
 - `main`: Email will be sent synchronously, starting from `MailersController#create`.
+- `background-jobs-complete`: Completed lesson code
 
 ### Notable Technologies / Dependencies
 
