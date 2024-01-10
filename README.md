@@ -2,6 +2,10 @@
 
 A simple Rails application for sharing your mood via email.
 
+## Setup
+
+This repo configured with Ruby 3.2.2 and Rails 7.1.2. 
+
 After cloning, follow these steps to run locally:
 
 ```
